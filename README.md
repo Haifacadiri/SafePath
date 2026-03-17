@@ -33,6 +33,7 @@ Target Variable:
 Accident Severity (Fatal, Serious, Moderate, Minor)
 
 ⚙️ Approach
+
 🔍 Data Preprocessing
 
 Handled missing and inconsistent data
