@@ -51,16 +51,6 @@ Implemented multiple Machine Learning algorithms
 
 Compared model performance using evaluation metrics
 
-📏 Model Evaluation Metrics
-
-Accuracy
-
-Precision
-
-Recall
-
-F1-Score
-
 🏆 Best Model & Results
 
 Best Model: XGBoost Classifier
